@@ -1,0 +1,10 @@
+<clientscript scriptid="customscript_jj_cs_onam_offers_otp7442">
+  <description></description>
+  <isinactive>F</isinactive>
+  <name>JJ CS Onam Offers OTp-7442</name>
+  <notifyadmins>F</notifyadmins>
+  <notifyemails></notifyemails>
+  <notifyowner>T</notifyowner>
+  <notifyuser>F</notifyuser>
+  <scriptfile>[/SuiteScripts/jobinandjismi/jj_cs_onam_offers_otp7442.js]</scriptfile>
+</clientscript>

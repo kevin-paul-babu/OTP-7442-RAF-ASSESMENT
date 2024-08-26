@@ -1,0 +1,10 @@
+<suitelet scriptid="customscript_jj_sl_onam_off_otp7442">
+  <description></description>
+  <isinactive>F</isinactive>
+  <name>JJ SL Onam Offers OTP-7442</name>
+  <notifyadmins>F</notifyadmins>
+  <notifyemails></notifyemails>
+  <notifyowner>T</notifyowner>
+  <notifyuser>F</notifyuser>
+  <scriptfile>[/SuiteScripts/jobinandjismi/jj_sl_onam_offers_otp7442.js]</scriptfile>
+</suitelet>
